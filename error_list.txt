@@ -1,0 +1,13 @@
+404
+1037
+1350
+1416
+
+
+ {1416: ['info extraction error'],
+ 1525: ['info extraction error'],
+ 1608: ['info extraction error'],
+ 1663: ['img url retrieve error'],
+ 2198: ['info extraction error'],
+ 2491: ['Error in HTML retrieval']}
+
